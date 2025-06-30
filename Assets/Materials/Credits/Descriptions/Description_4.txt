@@ -1,0 +1,2 @@
+QA Tester
+"The unsung hero of development, meticulously hunting down bugs and glitches. Tests builds across multiple scenarios to ensure stability and polish. Provides detailed reports to help the team squash issues before launch."
